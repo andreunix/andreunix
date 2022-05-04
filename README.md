@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá! Eu sou o André Carvalho
 
-<!--
-**andreunix/andreunix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Apaixonado por tecnologia
+<div align="center">
+  <a href="https://github.com/andreunix/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidluiz91&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluiz91&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+ 
+<div style="display: inline_block"><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  </div>
+  
+##
+
+<div> 
+
+</div>
