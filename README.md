@@ -1,7 +1,7 @@
-<div align="center" > 
+<!-- div align="center" > 
  <img border-radius="15px" src="https://avatars.githubusercontent.com/u/47705580?v=4">
 </div>
-
+-->
 <div align="center">
   <a href="https://github.com/andreunix">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andreunix&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=false&show_owner=true"/>
