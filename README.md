@@ -1,7 +1,3 @@
-<div align="center" style="border-radius:100%"> 
- <img heigth="10%" width"100%" src="https://avatars.githubusercontent.com/u/47705580?v=4">
-</div>
-
 <div align="center">
   <a href="https://github.com/andreunix">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andreunix&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
