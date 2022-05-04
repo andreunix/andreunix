@@ -5,7 +5,8 @@
 <div align="center">
   <a href="https://github.com/andreunix">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andreunix&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreunix&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?
+                             username=andreunix&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -18,7 +19,6 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img align="center" alt="github" height="35" width="35" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png">
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
