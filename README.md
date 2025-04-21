@@ -1,12 +1,6 @@
 <!-- 👋 Saudações -->
 <h1 align="left">👋 Olá, eu sou o André!</h1>
 
-<p align="left">
-  <a href="https://seu-portfolio.com" target="_blank">💼 Portfólio</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">🔗 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:seu-email@exemplo.com">✉️ Email</a>
-</p>
-
 ---
 
 ## 🚀 Sobre mim
