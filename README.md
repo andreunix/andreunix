@@ -14,9 +14,6 @@
 <p align="left">
   💼 Desenvolvedor de software **sênior** com mais de **5 anos** de experiência em arquitetura de back‑end e APIs de alta performance.<br>
   🔥 Especialista em **Fastify**, **PostgreSQL**, **Node.js** e **TypeScript**, com profundo conhecimento em modelagem de dados, otimização de consultas e padrões de design.<br>
-  🌐 Contribuidor ativo em projetos **open‑source** (autor de _fastify-plugin-cache_ e _pg-schema-migrator_) e mentor em comunidades de tecnologia.<br>
-  🚀 Líder técnico em squads ágeis, implementando pipelines de **CI/CD**, testes automatizados e monitoramento (Prometheus & Grafana) para garantir confiabilidade e escalabilidade.<br>
-  🎯 Objetivos: compartilhar conhecimento em blogs/talks, elevar a cultura DevOps nas equipes e explorar novas fronteiras em micro‑serviços e computação serverless.<br>
   🎲 Fora do teclado: coleciono canecas de café de todo o mundo ☕ e toco guitarra nas horas vagas 🎸
 </p>
 
