@@ -5,12 +5,6 @@
 
 ## 🚀 Sobre mim
 
-<p align="left">
-  💼 Desenvolvedor de software **sênior** com mais de **5 anos** de experiência em arquitetura de back‑end e APIs de alta performance.<br>
-  🔥 Especialista em **Fastify**, **PostgreSQL**, **Node.js** e **TypeScript**, com profundo conhecimento em modelagem de dados, otimização de consultas e padrões de design.<br>
-  🎲 Fora do teclado: coleciono canecas de café de todo o mundo ☕ e toco guitarra nas horas vagas 🎸
-</p>
-
 ---
 
 
